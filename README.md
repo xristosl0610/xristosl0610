@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20%there,%20I'm%20Christos%20Lathourakis&fontSize=30&desc=Machine%20Learning%20Engineer%20|%20Research%20Engineer&descSize=20&fontAlignY=25&descAlignY=45"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:58896e,100:023b28&text=Hi%20%there,%20I'm%20Christos%20Lathourakis&fontSize=30&desc=Machine%20Learning%20Engineer%20|%20Research%20Engineer&descSize=20&fontAlignY=25&descAlignY=45&fontColor=FFFFFF"/>
 </a>
 
 I like coding. I LOVE automation. If a process can be done better and/or faster, I'll make a script for it.
