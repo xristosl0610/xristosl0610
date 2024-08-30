@@ -1,8 +1,6 @@
-Hi there, I'm Christos Lathourakis
-=====================================
-
-Machine Learning Engineer | Research Engineer
----------------------------------------------
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20%there,%20I'm%20Christos%20Lathourakis&fontSize=30&desc=Machine%20Learning%20Engineer%20|%20Research%20Engineer&descSize=20&fontAlignY=25&descAlignY=45"/>
+</a>
 
 I like coding. I LOVE automation. If a process can be done better and/or faster, I'll make a script for it.
 
@@ -11,7 +9,7 @@ I like coding. I LOVE automation. If a process can be done better and/or faster,
  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fxristosl0610"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fxristosl0610&countColor=%23263759&style=flat&labelStyle=lower" /></a>
  
 
-### Skills
+<h2><img src = "https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" width ="35">&nbsp Tech Stack</h2>
           
 <div align="center">
   <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -33,9 +31,9 @@ I like coding. I LOVE automation. If a process can be done better and/or faster,
   <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
 </div>
 
+<!--
 ### Badges
 
-<!--
 <b>My GitHub Stats</b>
 
 <div align="center">
@@ -52,7 +50,7 @@ I like coding. I LOVE automation. If a process can be done better and/or faster,
 </a>
 
 </div>
- -->
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/xristosl0610/PhI-SINDy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xristosl0610&repo=PhI-SINDy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+ -->
