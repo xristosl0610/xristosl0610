@@ -26,9 +26,9 @@ I like coding. I LOVE automation. If a process can be done better and/or faster,
   <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
   <img align="center"  height="45" width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg">
   <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
-  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg">
-  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+<!--   <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"> -->
+<!--   <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"> -->
+<!--   <img align="center"  height="45" width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"> -->
 </div>
 
 <!--
